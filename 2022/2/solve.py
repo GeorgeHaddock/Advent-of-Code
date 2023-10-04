@@ -31,7 +31,7 @@ for round in strat_guide:
         elif you == "B": score_you += 2 #Paper
         elif you == "C": score_you += 3 #Scissors
 
-"""
+""" #Previous code for part 1 of day
 for round in strat_guide:
         opp, you = round.split(' ')
         # Assigning your choice & score
